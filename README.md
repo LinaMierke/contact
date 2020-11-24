@@ -1,7 +1,7 @@
-**CONTACT BOOK**
+# CONTACT BOOK #
 In this project, the user has the ability to search, update and delete a list of contacts.
 
-**Requirements:**
+## Requirements: ##
 This program was built using python and SQL with Peewee throught the CLI. To run this you will need:
 
 - Python 
@@ -32,7 +32,7 @@ Open the app, and run: python lib/contacting.py to seed the database initially. 
 
 
 
-**License**
+## License ##
 
 Private License
 
